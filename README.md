@@ -14,7 +14,33 @@ A simple and efficient Point of Sale (POS) system built in 2021, designed to hel
 ✅ Inventory management  
 
 📸 Screenshots
-(Add some images of your app interface)
+
+ 🔑 Login Screen
+![Login Screen](screenshots/basicPOS-Login.png)
+
+ 🏪 Dashboard
+![Dashboard](screenshots/basicPOS_Dashboard.png)
+
+ 🆕 New Invoice
+![New Invoice](screenshots/New%20Invoice.png)
+
+ 🛍️ Product Definition
+![Product Definition](screenshots/Product%20Definition.png)
+
+ 📦 Products Record
+![Products Record](screenshots/Products%20Record.png)
+
+ 🏪 Edit Shop Details
+![Edit Shop Details](screenshots/Edit%20Shop%20Details.png)
+
+ 🔄 Change Password
+![Change Password](screenshots/Change%20Password.png)
+
+ 🏪 Shop Details Form
+![Shop Details Form](screenshots/ShopDetailsform.png)
+
+ 💰 Transaction Records
+![Transaction Records](screenshots/Transaction%20Records.png)
 
 🛠️ Tech Stack
 - Frontend: WinForms 
