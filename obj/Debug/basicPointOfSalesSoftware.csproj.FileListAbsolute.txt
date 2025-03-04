@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\bin\Debug\basicPointOfSalesSoftware.exe.config
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\bin\Debug\basicPointOfSalesSoftware.exe
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\bin\Debug\basicPointOfSalesSoftware.pdb
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csprojAssemblyReference.cache
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Properties.Resources.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csproj.GenerateResource.cache
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csproj.CopyComplete
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.exe
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.pdb
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.LoginForm.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.DashboardForm.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.ProductsF.DefineProductScreen.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.ProductsF.ProductsRecordForm.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.ProductsF.NewInvoiceForm.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.Changepasswordform.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.changepasswordsecurityform.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.TransactionRecordform.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.shop_details.Editshopdetailsform.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.shop_details.ShopDetailsform.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.shop_details.shopdetailssecurityform.resources
+C:\Users\user\Desktop\visual studios\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.user_details.shopdetailsform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\bin\Debug\basicPointOfSalesSoftware.exe.config
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\bin\Debug\basicPointOfSalesSoftware.exe
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\bin\Debug\basicPointOfSalesSoftware.pdb
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\bin\Debug\MetroFramework.Design.dll
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\bin\Debug\MetroFramework.dll
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csproj.AssemblyReference.cache
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.shop_details.Editshopdetailsform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.shop_details.ShopDetailsform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.shop_details.shopdetailssecurityform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.Changepasswordform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.changepasswordsecurityform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.DashboardForm.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.LoginForm.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Properties.Resources.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.ProductsF.DefineProductScreen.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.ProductsF.NewInvoiceForm.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.ProductsF.ProductsRecordForm.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.TransactionRecordform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.Screens.user_details.shopdetailsform.resources
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csproj.GenerateResource.cache
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.csproj.CoreCompileInputs.cache
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPoi.81BFE1A6.Up2Date
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.exe
+C:\Users\shahzaad\Desktop\basicPointOfSalesSoftware\obj\Debug\basicPointOfSalesSoftware.pdb
