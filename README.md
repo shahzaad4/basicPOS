@@ -16,31 +16,31 @@ A simple and efficient Point of Sale (POS) system built in 2021, designed to hel
 📸 Screenshots
 
  🔑 Login Screen
-![Login Screen](screenshots/basicPOS-Login.png)
+![Login Screen](Screenshots/basicPOS-Login.png)
 
  🏪 Dashboard
-![Dashboard](screenshots/basicPOS_Dashboard.png)
+![Dashboard](Screenshots/basicPOS_Dashboard.png)
 
  🆕 New Invoice
-![New Invoice](screenshots/New%20Invoice.png)
+![New Invoice](Screenshots/New%20Invoice.png)
 
  🛍️ Product Definition
-![Product Definition](screenshots/Product%20Definition.png)
+![Product Definition](Screenshots/Product%20Definition.png)
 
  📦 Products Record
-![Products Record](screenshots/Products%20Record.png)
+![Products Record](Screenshots/Products%20Record.png)
 
  🏪 Edit Shop Details
-![Edit Shop Details](screenshots/Edit%20Shop%20Details.png)
+![Edit Shop Details](Screenshots/Edit%20Shop%20Details.png)
 
  🔄 Change Password
-![Change Password](screenshots/Change%20Password.png)
+![Change Password](Screenshots/Change%20Password.png)
 
  🏪 Shop Details Form
-![Shop Details Form](screenshots/ShopDetailsform.png)
+![Shop Details Form](Screenshots/ShopDetailsform.png)
 
  💰 Transaction Records
-![Transaction Records](screenshots/Transaction%20Records.png)
+![Transaction Records](Screenshots/Transaction%20Records.png)
 
 🛠️ Tech Stack
 - Frontend: WinForms 
